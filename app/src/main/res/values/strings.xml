@@ -11,6 +11,9 @@
     <string name="weight_kg">Weight (Kg)</string>
     <string name="exercise">Exercise</string>
     <string name="calculate">calculate</string>
+    <string name="Please_input_Weight">Please input Weight !!</string>
+    <string name="Please_input_Height">Please input Height !!</string>
+    <string name="Please_input_Age">Please input Age !!</string>
     <string-array name="array_Exercies">
         <item>None</item>
         <item>1to2 days a week</item>

@@ -12,19 +12,19 @@
     <TextView
         android:id="@+id/tv_str"
         android:layout_width="wrap_content"
-        android:text="dsssssss"
         android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
         android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
-    <TextView
+        android:text="txt" />
 
+    <Button
+        android:id="@+id/btn_Lab2"
         android:layout_width="wrap_content"
-        android:text="dsssssss"
         android:layout_height="wrap_content"
         android:layout_below="@+id/tv_str"
-        android:layout_alignLeft="@+id/tv_str"
-        android:layout_alignStart="@+id/tv_str"
-        android:layout_marginTop="42dp" />
+        android:layout_centerHorizontal="true"
+        android:layout_margin="10dp"
+        android:text="go to Lab2" />
 
 
 </RelativeLayout>

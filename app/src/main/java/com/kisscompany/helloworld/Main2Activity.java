@@ -17,14 +17,6 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-
-        initInstances();
-
-    }
-
-    private void initInstances() {
-
-
     }
 
     public void btn_login(View v) {
@@ -35,6 +27,7 @@ public class Main2Activity extends AppCompatActivity {
         String str_password = edt_password.getText().toString();
 
         if (str_username.equals("Sumate") && str_password.equals("1234")) {
+
             Toast.makeText(
                     Main2Activity.this
                     , "Hi!! " + str_username + " ยินดีต้อนรับ"
@@ -43,6 +36,7 @@ public class Main2Activity extends AppCompatActivity {
             Intent intent = new Intent(Main2Activity.this, DisplayMessageActivity.class);
             intent.putExtra("str_name", "" + str_username);
             startActivity(intent);
+
         } else {
             Toast.makeText(
                     Main2Activity.this

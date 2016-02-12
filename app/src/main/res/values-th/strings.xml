@@ -4,19 +4,22 @@
     <string name="b_login">เข้าสู่ระบบ</string>
     <string name="t_password">รหัสผผ่าน</string>
     <string name="t_user_name">ผู้ใช้</string>
-    <string name="gender">Gender</string>
-    <string name="male">Male</string>
-    <string name="female">Female</string>
-    <string name="age_years">Age (Years)</string>
-    <string name="height_cm">Height (Cm)</string>
-    <string name="weight_kg">Weight (Kg)</string>
-    <string name="exercise">Exercise</string>
-    <string name="calculate">calculate</string>
+    <string name="gender">เพศ</string>
+    <string name="male">ชาย</string>
+    <string name="female">หญิง</string>
+    <string name="age_years">อายุ (ปี)</string>
+    <string name="height_cm">สูง (ซม.)</string>
+    <string name="weight_kg">หนัก (กก.)</string>
+    <string name="exercise">ออกกำลังกาย</string>
+    <string name="calculate">คำนวณ</string>
+    <string name="Please_input_Weight">กรุณาใส่น้ำหน้ำ !!</string>
+    <string name="Please_input_Height">กรุณาใส่ส่วนสูง !!</string>
+    <string name="Please_input_Age">กรุณาใส่อายุ !!</string>
     <string-array name="array_Exercies">
-        <item>None</item>
-        <item>1to2 days a week</item>
-        <item>3to5 days a week</item>
-        <item>6to7 days a week</item>
-        <item>Athlete (All the time)</item>
+        <item>ไม่เลย</item>
+        <item>1 ถึง 2 วันต่อสัปดาห์</item>
+        <item>3 ถึง 5 วันต่อสัปดาห</item>
+        <item>6 ถึง 7 วันต่อสัปดาห</item>
+        <item>ตลอดเวลา</item>
     </string-array>
 </resources>
