@@ -1,8 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">CS56110177</string>
-    <string name="t_user_name">Username</string>
-    <string name="t_password">Password</string>
-    <string name="b_login">login</string>
+    <string name="b_login">เข้าสู่ระบบ</string>
+    <string name="t_password">รหัสผผ่าน</string>
+    <string name="t_user_name">ผู้ใช้</string>
     <string name="gender">Gender</string>
     <string name="male">Male</string>
     <string name="female">Female</string>
