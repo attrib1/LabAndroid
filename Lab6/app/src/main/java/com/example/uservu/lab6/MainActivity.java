@@ -13,7 +13,6 @@ public class MainActivity extends AppCompatActivity {
     long delay_time;
     long time = 3000L;
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -21,7 +20,6 @@ public class MainActivity extends AppCompatActivity {
         
         initInstance();
     }
-
     private void initInstance() {
         handler = new Handler() ;
         runnable =new Runnable() {
@@ -34,13 +32,11 @@ public class MainActivity extends AppCompatActivity {
             }
         };
     }
-
     @Override
     protected void onResume() {
         super.onResume();
         delay_time = time;
         handler.postDelayed(runnable,delay_time);
-
     }
 
     @Override

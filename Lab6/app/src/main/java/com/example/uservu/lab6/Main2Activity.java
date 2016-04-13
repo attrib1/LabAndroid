@@ -18,11 +18,8 @@ public class Main2Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
-
         initInstance();
-
     }
-
     private void initInstance() {
         String[] data = new String[] {"Prophet","Thunder","Andromeda","Blitz","Bushwack","Defiler"
                 ,"Engineer","Magmus","Parasite","Parallax"};

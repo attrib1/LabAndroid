@@ -1,4 +1,4 @@
-package com.kisscompany.lab8_1;
+package com.kisscompany.lab8;
 
 import org.junit.Test;
 
