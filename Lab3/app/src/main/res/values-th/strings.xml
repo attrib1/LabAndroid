@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">open web</string>
+    <string name="open_map">แผนที่</string>
+    <string name="open_phone">โทร.</string>
+    <string name="open_web">เว็บ</string>
+    <string name="open_web_in_app">เว็บเบราว์เซอร์ </string>
+    <string name="go">ไป</string>
+</resources>

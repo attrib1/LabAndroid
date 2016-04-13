@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CS56110177</string>
+    <string name="t_user_name">Username</string>
+    <string name="t_password">Password</string>
+    <string name="b_login">login</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="age_years">Age (Years)</string>
+    <string name="height_cm">Height (Cm)</string>
+    <string name="weight_kg">Weight (Kg)</string>
+    <string name="exercise">Exercise</string>
+    <string name="calculate">calculate</string>
+    <string name="Please_input_Weight">Please input Weight !!</string>
+    <string name="Please_input_Height">Please input Height !!</string>
+    <string name="Please_input_Age">Please input Age !!</string>
+    <string-array name="array_Exercies">
+  v      <item>None</item>
+        <item>1to2 days a week</item>
+        <item>3to5 days a week</item>
+        <item>6to7 days a week</item>
+        <item>Athlete (All the time)</item>
+    </string-array>
+</resources>
